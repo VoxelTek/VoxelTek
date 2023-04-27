@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VoxelTek
-- 👀 I’m interested in Godot, open-source software, Linux (mainly Ubuntu), the Raspberry Pi, and more.
+- 👀 I’m interested in Godot, open-source software, Linux (mainly Ubuntu), the Raspberry Pi, 6502asm, and more.
 - 🌱 I’m currently learning GDScript, Godot, Python, C, and other stuff.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: VoxelTek#7809 on Discord
